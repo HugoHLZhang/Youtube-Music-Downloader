@@ -1,0 +1,24 @@
+0 - create a new folder : "Music" for example.
+
+1 - put the file in the folder and open "yt_music_downloader.py" file in Visual Studio Code :
+
+2 - open terminal (ctrl+j) and enter the following command : "python yt_music_downloader.py"
+
+3 - you will have to enter a youtube plyalist link. copy paste (ctrl+shift+v) the following link :
+
+    https://music.youtube.com/playlist?list=PLG0G0W7xWODHn5C-kNNm6OucoASzVCk5P&si=qh0XZitNhANaam3G
+
+4 - go do something else until the download is finished.
+
+5 - install itunes
+
+6 - connect your phone with your pc 
+
+7 - look at "screenshot_1.png" : 
+    1 - create a playlist folder on itunes
+    2 - drag and drop all (ctrl+a) the song in this folder
+
+8 - look at "screenshot_2.png" :
+    1 - select all
+    2 - right clic and add all the song in your devices
+
